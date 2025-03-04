@@ -1,4 +1,0 @@
-## Racoin
-
-TODO: readme
-
